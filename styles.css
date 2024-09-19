@@ -1,0 +1,27 @@
+body {
+    background-color: #faf2e4;
+    margin: 0 15%;
+    font-family: sans-serif;
+  }
+  h1 {
+    text-align: center;
+    font-family: serif;
+    font-weight: normal;
+    text-transform: uppercase;
+    border-bottom: 1px solid #57b1dc;
+    margin-top: 30px;
+  }
+  h2 {
+    color: #d1633c;
+    font-size: 1em;
+  }
+
+h2{
+            margin: auto;
+            padding: auto;
+            text-align: center; /* Centra el texto y la imagen en el body */
+        }
+        .header-image {
+            width: 100%; /* Ajusta el tamaño de la imagen según el ancho de la pantalla */
+            height: auto; /* Mantiene la proporción de la imagen */
+        }
